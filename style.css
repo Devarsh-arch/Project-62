@@ -1,0 +1,22 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+body{
+    text-align: center;
+    background-color: cornflowerblue;
+    border: solid;
+    border-color: aqua;
+    border-width: thick;
+}
+#myCarousel1{
+    background-color: crimson;
+    border: solid;
+    border-color: darkorange;
+    border-width: medium;
+    padding: 5px; 
+}
+p{
+    text-decoration-color: blue;
+    font-family: sans-serif;
+}
